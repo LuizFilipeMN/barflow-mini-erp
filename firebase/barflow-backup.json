@@ -1,0 +1,579 @@
+{
+  "__collections__": {
+    "clientes": {
+      "9YuJP609tDuOrnm9G9Cy": {
+        "nome": "Pedro",
+        "documento": "000.000.0",
+        "telefone": "0",
+        "__collections__": {}
+      },
+      "C0b6kltCjH3NhbLboCfw": {
+        "nome": "Lucas",
+        "documento": "",
+        "telefone": "",
+        "__collections__": {}
+      },
+      "YbB9zyV1ceNJUUcFOQ9r": {
+        "nome": "Luiz",
+        "documento": "",
+        "telefone": "",
+        "__collections__": {}
+      }
+    },
+    "estoque_historico": {
+      "0pXwRmcrvF4v5ZnfO2Ea": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Saída manual",
+        "data": "2025-06-24T02:41:56.830Z",
+        "__collections__": {}
+      },
+      "3ia9LGpvXzhvu7pPAsyH": {
+        "tipo": "entrada",
+        "produtoId": "1",
+        "quantidade": 5,
+        "origem": "Entrada manual",
+        "data": "2025-06-24T02:49:57.988Z",
+        "__collections__": {}
+      },
+      "4BgQC75e5IwOhyZC5jDx": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Saída manual",
+        "data": "2025-06-24T02:39:59.207Z",
+        "__collections__": {}
+      },
+      "4Pm96aqWS0MCsyzzc5Cd": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 3,
+        "origem": "Venda",
+        "data": "2025-06-24T02:49:58.033Z",
+        "__collections__": {}
+      },
+      "7V6IDwzw2pQQLZEIYjsB": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:48:49.741Z",
+        "__collections__": {}
+      },
+      "8lF9aXShs4apwoBYSLbd": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Saída manual",
+        "data": "2025-06-24T02:43:16.643Z",
+        "__collections__": {}
+      },
+      "8tfegMRJYFNhOlUZUuXZ": {
+        "tipo": "entrada",
+        "produtoId": "RcdHYJOZUMz3xMPQVw7E",
+        "quantidade": 35,
+        "origem": "Entrada manual",
+        "data": "2025-06-23T00:54:50.381Z",
+        "__collections__": {}
+      },
+      "ASoOROHAZdRcFSIX9xta": {
+        "tipo": "saída",
+        "produtoId": "RcdHYJOZUMz3xMPQVw7E",
+        "quantidade": 5,
+        "origem": "Venda concluída",
+        "data": "2025-06-22T21:33:17.214Z",
+        "__collections__": {}
+      },
+      "HaMzIlfS9mMNAnMnmZFq": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Saída manual",
+        "data": "2025-06-24T02:49:57.993Z",
+        "__collections__": {}
+      },
+      "IjYqYBCWpXeo8xEOs7iE": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:41:56.898Z",
+        "__collections__": {}
+      },
+      "J5ggSjof2vpr0VHKDssb": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:40:00.817Z",
+        "__collections__": {}
+      },
+      "KKB7UDSz7YXoLj5E8Php": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 3,
+        "origem": "Venda",
+        "data": "2025-06-24T02:41:56.897Z",
+        "__collections__": {}
+      },
+      "L11I6nHt2lgnr8QiicAa": {
+        "tipo": "entrada",
+        "produtoId": "1",
+        "quantidade": 5,
+        "origem": "Entrada manual",
+        "data": "2025-06-24T02:48:49.690Z",
+        "__collections__": {}
+      },
+      "LvNVP9oB5BM3zyZOIaNS": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:43:16.681Z",
+        "__collections__": {}
+      },
+      "NRagXEb2zWdulOh5C65Z": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 3,
+        "origem": "Venda",
+        "data": "2025-06-24T02:43:16.681Z",
+        "__collections__": {}
+      },
+      "OQJfsDbZHr9wsRRN5Cfs": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:48:51.655Z",
+        "__collections__": {}
+      },
+      "OcUAP1bKwgVic8bLswXM": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 3,
+        "origem": "Venda",
+        "data": "2025-06-24T02:39:59.243Z",
+        "__collections__": {}
+      },
+      "QdaHReexldFyyQR5uLtp": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Saída manual",
+        "data": "2025-06-24T02:48:49.692Z",
+        "__collections__": {}
+      },
+      "R2QJiv9W565UbsVRth8X": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:49:58.033Z",
+        "__collections__": {}
+      },
+      "T15PFcVvdVhcfkRbhERT": {
+        "tipo": "saída",
+        "produtoId": "G4clO7aJFBRP4wPpYCkl",
+        "quantidade": 21,
+        "origem": "Venda concluída (edição)",
+        "data": "2025-06-25T18:26:01.554Z",
+        "__collections__": {}
+      },
+      "U71mRaJ42RukiCFEtH2V": {
+        "tipo": "entrada",
+        "produtoId": "1",
+        "quantidade": 5,
+        "origem": "Entrada manual",
+        "data": "2025-06-24T02:44:14.004Z",
+        "__collections__": {}
+      },
+      "VWsGrWUynSFfAylYCGwU": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:49:59.738Z",
+        "__collections__": {}
+      },
+      "WDqikWGIPy8MaSg7zDpG": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Saída manual",
+        "data": "2025-06-24T02:44:14.008Z",
+        "__collections__": {}
+      },
+      "X5sSECZVniUqQjF6zATx": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:43:18.591Z",
+        "__collections__": {}
+      },
+      "cPe49LFsXoWrJWnEWkTO": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:41:58.526Z",
+        "__collections__": {}
+      },
+      "dTeRKoGmxZvTtDRUOgkO": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:39:59.244Z",
+        "__collections__": {}
+      },
+      "hVgVAsXdg5GvbZqxDB7L": {
+        "tipo": "entrada",
+        "produtoId": "1",
+        "quantidade": 5,
+        "origem": "Entrada manual",
+        "data": "2025-06-24T02:41:56.827Z",
+        "__collections__": {}
+      },
+      "hjZfbQKwUqNVSz1TdhJl": {
+        "tipo": "entrada",
+        "produtoId": "1",
+        "quantidade": 5,
+        "origem": "Entrada manual",
+        "data": "2025-06-24T02:39:59.201Z",
+        "__collections__": {}
+      },
+      "jTieyGjcV05Rwh3o8edC": {
+        "tipo": "entrada",
+        "produtoId": "1",
+        "quantidade": 5,
+        "origem": "Entrada manual",
+        "data": "2025-06-24T02:43:16.621Z",
+        "__collections__": {}
+      },
+      "jUyx2guud7KaQ9plSYSG": {
+        "tipo": "entrada",
+        "produtoId": "G4clO7aJFBRP4wPpYCkl",
+        "quantidade": 20,
+        "origem": "Entrada manual",
+        "data": "2025-06-23T14:59:52.136Z",
+        "__collections__": {}
+      },
+      "osOVsOgauH6229Jje69J": {
+        "tipo": "saída",
+        "produtoId": "M6HW0uE2hL8jcFpDkU6I",
+        "quantidade": 60,
+        "origem": "Venda concluída",
+        "data": "2025-06-29T17:14:45.788Z",
+        "__collections__": {}
+      },
+      "pHSlX8TL6v7yxSwPXxTu": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:44:14.052Z",
+        "__collections__": {}
+      },
+      "piY08Rtu88CANsoC7cqw": {
+        "tipo": "saída",
+        "produtoId": "RcdHYJOZUMz3xMPQVw7E",
+        "quantidade": 20,
+        "origem": "Venda concluída",
+        "data": "2025-06-22T22:28:59.939Z",
+        "__collections__": {}
+      },
+      "py4OLTKzK417QTrziOwA": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 3,
+        "origem": "Venda",
+        "data": "2025-06-24T02:44:14.052Z",
+        "__collections__": {}
+      },
+      "qt2aiclVO9KzP6IAievq": {
+        "tipo": "entrada",
+        "produtoId": "fVXIlQsZZ0sjlYAyK0gd",
+        "quantidade": 60,
+        "origem": "Entrada manual",
+        "data": "2025-06-29T17:14:04.533Z",
+        "__collections__": {}
+      },
+      "xzBVCErRCPmGPxcg3bed": {
+        "tipo": "saída",
+        "produtoId": "1",
+        "quantidade": 2,
+        "origem": "Venda",
+        "data": "2025-06-24T02:44:15.735Z",
+        "__collections__": {}
+      },
+      "zWIBbheKpxzdVdVMVKXj": {
+        "tipo": "saída",
+        "produtoId": "2",
+        "quantidade": 3,
+        "origem": "Venda",
+        "data": "2025-06-24T02:48:49.741Z",
+        "__collections__": {}
+      }
+    },
+    "formas_pagamento": {
+      "17zqyhuhne3P2bKI6Vnp": {
+        "nome": "Forma de pagamento ",
+        "tipo": "Outros",
+        "__collections__": {}
+      },
+      "TNxWR5OR5elfvb1P2Ple": {
+        "tipo": "Cartão",
+        "nome": "Crédito ",
+        "id": "TNxWR5OR5elfvb1P2Ple",
+        "__collections__": {}
+      }
+    },
+    "pedidos": {
+      "5lhSaZDADi6tEDsVhU80": {
+        "cliente": "w",
+        "produto": "Produto estoque",
+        "pagamento": "Dinheiro",
+        "valor": 30,
+        "dataVenda": "2025-06-23T00:42:33.632Z",
+        "forma_pagamento": "Dinheiro",
+        "status": "Concluída",
+        "created_at": "2025-06-23T00:42:52.596Z",
+        "quantidade": 5,
+        "__collections__": {}
+      },
+      "6DIJ7Du2mTrZLsi7COeS": {
+        "cliente": "Luiz",
+        "produto": "Produto teste editado",
+        "quantidade": 60,
+        "pagamento": "Forma de pagamento ",
+        "valor": 60,
+        "dataVenda": "2025-06-29T17:14:09.784Z",
+        "forma_pagamento": "Forma de pagamento ",
+        "status": "Concluída",
+        "created_at": "2025-06-29T17:14:44.742Z",
+        "__collections__": {}
+      },
+      "BAywgThbMkVviY4QjaTb": {
+        "cliente": "w",
+        "produto": "Produto estoque",
+        "quantidade": 5,
+        "pagamento": "Dinheiro",
+        "valor": 20000,
+        "dataVenda": "2025-06-24T00:47:00.000Z",
+        "forma_pagamento": "Dinheiro",
+        "status": "Concluída",
+        "created_at": "2025-06-23T00:48:09.069Z",
+        "__collections__": {}
+      },
+      "EMLi8ENo9oF51tl4JJsQ": {
+        "produto": "Produto estoque",
+        "quantidade": 50,
+        "pagamento": "Dinheiro",
+        "valor": 50,
+        "dataVenda": "2025-06-22T23:08:46.314Z",
+        "forma_pagamento": "Dinheiro",
+        "status": "Concluída",
+        "created_at": "2025-06-22T23:09:04.740Z",
+        "cliente": "Consumidor",
+        "__collections__": {}
+      },
+      "KQlgScSpAOxdItLzUVes": {
+        "cliente": "Roberto",
+        "produto": "Produto teste editado",
+        "quantidade": 5,
+        "pagamento": "Crédito ",
+        "dataVenda": "2025-06-25T23:30:39.530Z",
+        "forma_pagamento": "Crédito ",
+        "created_at": "2025-06-25T23:31:38.598Z",
+        "valor": 200,
+        "status": "Em aberto",
+        "__collections__": {}
+      },
+      "PHF7AI9wzWtZC5zISOUi": {
+        "cliente": "Roberto",
+        "produto": "Guaraná",
+        "quantidade": 4,
+        "valor": 2,
+        "dataVenda": "2025-06-25T18:04:02.573Z",
+        "status": "Cancelada",
+        "created_at": "2025-06-25T18:08:56.365Z",
+        "forma_pagamento": "Cartao ",
+        "pagamento": "Cartao ",
+        "__collections__": {}
+      },
+      "cRP4Zkvtp3c4qZZ2vD2X": {
+        "cliente": "teste 5",
+        "produto": "Teste novo",
+        "quantidade": 0.5,
+        "pagamento": "Dinheiro",
+        "valor": 20,
+        "dataVenda": "2025-06-22T06:46:00.441Z",
+        "forma_pagamento": "Dinheiro",
+        "status": "Cancelada",
+        "created_at": "2025-06-22T06:46:13.986Z",
+        "__collections__": {}
+      },
+      "dYuSNWDLPSp0T1X9LvuL": {
+        "cliente": "Teste",
+        "produto": "Teste novo",
+        "quantidade": 50,
+        "pagamento": "Dinheiro",
+        "valor": 30,
+        "dataVenda": "2025-06-23T06:44:00.000Z",
+        "forma_pagamento": "Dinheiro",
+        "created_at": "2025-06-22T06:44:49.107Z",
+        "status": "Fiado",
+        "__collections__": {}
+      }
+    },
+    "produtos": {
+      "G4clO7aJFBRP4wPpYCkl": {
+        "codigo": "01",
+        "nome": "Guaraná",
+        "valorCusto": 5,
+        "id": "G4clO7aJFBRP4wPpYCkl",
+        "valorVenda": 7,
+        "quantidade": 1,
+        "__collections__": {}
+      },
+      "M6HW0uE2hL8jcFpDkU6I": {
+        "codigo": "12356",
+        "valorCusto": 20,
+        "valorVenda": 30,
+        "nome": "Produto teste editado",
+        "id": "M6HW0uE2hL8jcFpDkU6I",
+        "quantidade": -55,
+        "__collections__": {}
+      },
+      "RcdHYJOZUMz3xMPQVw7E": {
+        "codigo": "554",
+        "id": "RcdHYJOZUMz3xMPQVw7E",
+        "valorCusto": 10,
+        "valorVenda": 12,
+        "quantidade": 100,
+        "nome": "Cerveja Original",
+        "__collections__": {}
+      },
+      "SnTHNY2pXbIfQU8FNk38": {
+        "id": "SnTHNY2pXbIfQU8FNk38",
+        "codigo": "3",
+        "valorCusto": 8,
+        "nome": "Heineken",
+        "quantidade": 70,
+        "valorVenda": 14,
+        "__collections__": {}
+      },
+      "fVXIlQsZZ0sjlYAyK0gd": {
+        "codigo": "10",
+        "nome": "Teste",
+        "valorCusto": 1,
+        "valorVenda": 2,
+        "quantidade": 80,
+        "__collections__": {}
+      }
+    },
+    "usuarios": {
+      "6yhvTKALtxgqQzVtZezlmHIMZEC2": {
+        "uid": "6yhvTKALtxgqQzVtZezlmHIMZEC2",
+        "email": "clebervmarques@gmail.com",
+        "nome": "Cleber Marques",
+        "telefone": "(31) 98626-3345",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1751152843,
+            "_nanoseconds": 610000000
+          }
+        },
+        "__collections__": {}
+      },
+      "Dxrm3l1CQcQVqQK88Alw7lZIvkf2": {
+        "uid": "Dxrm3l1CQcQVqQK88Alw7lZIvkf2",
+        "email": "luizfilipemn@hotmail.com",
+        "nome": "Luiz Filipe ",
+        "telefone": "(00) 00000-0000",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1750728082,
+            "_nanoseconds": 383000000
+          }
+        },
+        "__collections__": {}
+      },
+      "QMFMn9PmuzT4xg7JAVfYaaiEiIg2": {
+        "nome": "Luiz Filipe ",
+        "telefone": "(31) 97337-7569",
+        "email": "luizfilipemn@hotmail.com",
+        "uid": "QMFMn9PmuzT4xg7JAVfYaaiEiIg2",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1750726828,
+            "_nanoseconds": 720000000
+          }
+        },
+        "__collections__": {}
+      },
+      "W7WI0IJu4WcYPYZsnfAwvXoNobj2": {
+        "uid": "W7WI0IJu4WcYPYZsnfAwvXoNobj2",
+        "email": "leonardomudrik@gmail.com",
+        "nome": "Teste1",
+        "telefone": "(31) 99767-2188",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1750873941,
+            "_nanoseconds": 433000000
+          }
+        },
+        "__collections__": {}
+      },
+      "iTqynevt2pPKfK29jbbJGuVAxNF3": {
+        "uid": "iTqynevt2pPKfK29jbbJGuVAxNF3",
+        "email": "teste@teste.com",
+        "nome": "Teste",
+        "telefone": "(31) 9999-999",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1751483944,
+            "_nanoseconds": 82000000
+          }
+        },
+        "__collections__": {}
+      },
+      "iwGHcgv0FWan7uppXoJmNHOPOA63": {
+        "uid": "iwGHcgv0FWan7uppXoJmNHOPOA63",
+        "email": "Claudiney@gmail.com",
+        "nome": "Claudiney",
+        "telefone": "(31) 91234-5678",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1750986649,
+            "_nanoseconds": 751000000
+          }
+        },
+        "__collections__": {}
+      },
+      "yoU0B4XrxFaSdjevVhZMLPX2kEJ3": {
+        "uid": "yoU0B4XrxFaSdjevVhZMLPX2kEJ3",
+        "email": "lucaseep10@gmail.com",
+        "nome": "Teste manel",
+        "telefone": "(31) 99658-7126",
+        "criado_em": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1751217161,
+            "_nanoseconds": 375000000
+          }
+        },
+        "__collections__": {}
+      }
+    }
+  }
+}
