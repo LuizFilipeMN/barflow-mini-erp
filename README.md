@@ -23,7 +23,6 @@ npm install
 npx expo start
 ```
 Você pode escanear o QR code com o app Expo Go (Android ou iOS) ou executar em um emulador Android/iOS.
-
-4. **Dúvidas ou sugestões**
+### ❓ Dúvidas ou sugestões
 
 [linkedin.com/in/luizfmn](https://www.linkedin.com/in/luizfmn/)
